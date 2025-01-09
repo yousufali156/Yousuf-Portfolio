@@ -62,7 +62,6 @@ li a {
     font-size: 20px;
     border: none;
     cursor: pointer;
-    
 }
 
 /* Banner Style */
@@ -114,14 +113,6 @@ main section {
 .about-items{
     display: flex;
     justify-content: space-around;
-}
-
-.about-item{
-
-}
-
-.item-title{
-
 }
 
 .item-description{
