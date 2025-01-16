@@ -3,7 +3,7 @@
 .work-sans-normal {
   font-family: "Work Sans", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: normal;
   font-style: normal;
   width: 100;
 }
@@ -101,9 +101,9 @@ main section {
 
 .about{
     border-radius: 10px;
-    padding: 130px 150px;
+    padding: 100px 120px;
     text-align: center;
-    margin-top: 130px;
+    margin-top: 120px;
 }
 .section-description{
     font-size: 18px;
@@ -184,4 +184,78 @@ footer input[type="text"], footer input[type="email"], footer textarea  {
     margin-bottom: 24px;
     border: none;
 
+}
+
+@media screen and (max-width:576px) {
+    .skills-continer{
+        flex-direction: column;
+        
+    }
+    .resume-container{
+        flex-direction: column;
+    }
+
+    footer{
+        padding: 0px;
+        flex-direction: column;
+
+    }
+    .footer-column{
+        width: 100%;
+    }
+    
+    footer input[type="text"], footer input[type="email"], footer textarea{
+        width: calc(100% - 45px);
+    }
+    .section-description{
+        padding: 0px;
+    }
+    .about{
+        padding: 20px;
+        
+    }
+
+    
+    .about-items{
+        flex-direction: column;
+    }
+
+    .banner{
+        margin: 20px;
+    }
+    .banner{
+        flex-direction: column;
+    }
+    .header{
+        background-image: none;
+    }
+    .banner-profile{
+        width: 100%;
+    }
+    nav{
+        flex-direction: column;
+        
+    }
+    
+
+    nav > ul{
+        flex-direction: column;
+    }
+
+    nav > ul > li{
+       margin-top: 20px;
+    }
+   
+    .banner-title{
+        font-size: 4em;
+
+    }
+
+    .nav-title{
+        font-size: 4em;
+    }
+    
+    nav > ul > li > a {
+        font-size: 2em;
+    }
 }
