@@ -29,13 +29,6 @@ This is my first personal portfolio website, built using only **HTML** and **CSS
 
 ---
 
-## 📸 Preview
-
-![Portfolio Screenshot](https://prnt.sc/4lwkGN8LVeZw)
-
-> *(Add a screenshot of your site named `screenshot.png` in your repo folder)*
-
----
 
 ## 📬 Contact
 
