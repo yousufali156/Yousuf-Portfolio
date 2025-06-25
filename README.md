@@ -39,8 +39,8 @@ This is my first personal portfolio website, built using only **HTML** and **CSS
 ---
 
 ## 📁 Folder Structure
-portfolio/
-│
-├── styles
-├── images
-└── index.html
+portfolio/ <br/>
+│ <br/>
+├── styles <br/>
+├── images <br/>
+└── index.html <br/>
