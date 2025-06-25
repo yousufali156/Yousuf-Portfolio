@@ -6,7 +6,7 @@ This is my first personal portfolio website, built using only **HTML** and **CSS
 
 ## 🔗 Live Site
 
-👉 [View Live Website]([https://your-portfolio-link.com](https://yousufali156.github.io/Yousuf-Portfolio/))
+👉 [View Live Website](https://yousufali156.github.io/Yousuf-Portfolio/)
 
 ---
 
@@ -31,7 +31,7 @@ This is my first personal portfolio website, built using only **HTML** and **CSS
 
 ## 📸 Preview
 
-![Portfolio Screenshot]([screenshot.png](https://prnt.sc/4lwkGN8LVeZw))
+![Portfolio Screenshot](https://prnt.sc/4lwkGN8LVeZw)
 
 > *(Add a screenshot of your site named `screenshot.png` in your repo folder)*
 
